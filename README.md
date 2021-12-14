@@ -1,12 +1,13 @@
 # about-me
 Hello, my name is Jiming Zheng, and I go to High School of Telecommunication Arts and Technology.
 
+I was born in China, move to America to philladelphia. In 5th grade I move to New York with my mother.
 ## Contact
- you can contact me at Jimingz9380@hstat.org to know more about me if you wonder anything.
+you can contact me at Jimingz9380@hstat.org to know more about me if you wonder anything.
 
 ## available
 
-My schecule right now is
+My schecule right now is ...
 ```
 period 1: Gobal History
 period 2: Chemistry 1
