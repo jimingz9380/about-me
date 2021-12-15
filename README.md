@@ -11,6 +11,12 @@ This is unorder list of my favorite animal
 *lion
 *cheetach
 *dolphin
+
+This is a order list of my Favorite animal
+1) Cheetah
+2) Lion
+3) dolphin
+
 ## Contact
 you can contact me at Jimingz9380@hstat.org to know more about me if you wonder anything.
 
