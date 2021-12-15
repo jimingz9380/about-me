@@ -8,9 +8,9 @@ to run for my hobbies.
 
 ### Favorite pet 
 This is unorder list of my favorite animal
-*lion
-*cheetach
-*dolphin
+- lion  
+- cheetach  
+- dolphin
 
 This is a order list of my Favorite animal
 1) Cheetah
