@@ -1,7 +1,7 @@
 # About-me
 Hello, my name is Jiming Zheng, and I go to High School of Telecommunication Arts and Technology.
 
-I was born in China, move to philladelphia in _America_. In 5th grade I move to New York with my mother.  
+I was born in China, move to philladelphia in **_America_**. In 5th grade I move to New York with my mother.  
 
 My favorites', I have many favorite such as music which is mostly rock, my favorite food is noodle and bread. I like
 to run for my hobbies.
