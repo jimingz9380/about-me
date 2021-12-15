@@ -1,4 +1,5 @@
 # About-me
+
 Hello, my name is Jiming Zheng, and I go to High School of Telecommunication Arts and Technology.
 
 I was born in China, move to philladelphia in **_America_**. In 5th grade I move to New York with my mother.  
@@ -17,8 +18,11 @@ This is a order list of my Favorite animal
 2) Lion
 3) dolphin
 
+[picture of lions](https://www.detroitlions.com/)
 ## Contact
 you can contact me at Jimingz9380@hstat.org to know more about me if you wonder anything.
+
+
 
 ## available
 
