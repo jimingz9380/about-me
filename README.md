@@ -1,5 +1,6 @@
 # About-me
 
+---
 
 Hello, my name is Jiming Zheng, and I go to High School of Telecommunication Arts and Technology.
 
@@ -10,9 +11,9 @@ to run for my hobbies.
 ### Favorite pet 
 This is unorder list of my favorite animal
 - lion  
-- cheetach  
-- dolphin
-- 
+- cheetach    
+- dolphin  
+
 This is a order list of my Favorite animal
 1) Cheetah
 2) Lion
