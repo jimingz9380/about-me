@@ -12,7 +12,7 @@ This is unorder list of my favorite animal
 - cheetach    
 - dolphin  
 
-This is a order list of my Favorite animal
+This is a order list of my favorite animal
 1) Cheetah
 2) Lion
 3) dolphin
@@ -22,7 +22,7 @@ This is a order list of my Favorite animal
 ---
 
 ## Contact
-you can contact me at Jimingz9380@hstat.org to know more about me if you wonder anything.
+You can contact me at jimingz9380@hstat.org to know more about me if you wonder anything.
 
 ## available
 
@@ -36,6 +36,8 @@ period 5: Algebra 2
 period 6: Lunch
 period 7: BHP (Big History Project)
 period 8: Spanish 3
-period 9: Yoga
+period 9: Yoga (only on somedays such as monday, wednesday, and thursday)
 ```
 After my 9 period you can try to contact me 
+
+Reviewed by Jessica Yang
